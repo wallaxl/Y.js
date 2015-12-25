@@ -1,0 +1,19 @@
+{
+  "name": "y.js",
+  "version": "1.0.0",
+  "description": "a simple web server by node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "http"
+  ],
+  "dependencies": {
+    "mimez": "1.0.0"
+  },
+  "author": "wallax",
+  "license": "GPL-3.0"
+}
